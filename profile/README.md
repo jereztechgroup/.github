@@ -19,6 +19,12 @@ JerezTech Group designs, builds and secures digital platforms that help organiza
 - **Built to scale**: architecture ready for growth
 - **End-to-end delivery**: from strategy to production
 
+## Now building
+
+- **JT Suite**: a modular business suite for organizations of any size
+- **Jay**: a voice-driven AI assistant (JT Labs)
+- Member of the **AMD AI Developer Program**
+
 ---
 
 [jereztech.net](https://jereztech.net) · [jereztech@icloud.com](mailto:jereztech@icloud.com)
